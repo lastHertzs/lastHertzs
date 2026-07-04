@@ -16,7 +16,7 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: lastHertzs
-          outputs: dist/snake.svg
+          outputs: dist
 
       - name: Push Snake
         uses: crazy-max/ghaction-github-pages@v2
