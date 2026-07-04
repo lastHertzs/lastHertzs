@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=24&color=36BCF7&lines=Golang+Backend+Developer;Game+Server+Engineer)](https://git.io/typing-svg)
+
+![贪吃蛇动画](https://raw.githubusercontent.com/lastHertzs/lastHertzs/output/snake.svg)
+
